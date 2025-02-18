@@ -1,0 +1,13 @@
+{
+    "tile1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAADw//////8AAP//////DwDw///9//8AAPD//93/DwAA8P//3f8PBwDw///d330HAPD//y19d9cH8P//LX131wfw///d330HAPD//93/DwcA8P//3f8PAADw///9//8AAAD//////w8AAPD//////wAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Tsuki"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
